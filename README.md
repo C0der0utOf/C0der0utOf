@@ -1,5 +1,5 @@
 # 💫 About Me:
-A German CISO<br>Coding and security testing<br>
+A German Programmer<br>Coding and security testing<br>
 
 
 ## 🌐 Socials:
