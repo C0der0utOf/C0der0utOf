@@ -1,5 +1,5 @@
 # 💫 About Me:
-A German Programmer<br>Coding and security testing<br>
+"Beneath this code there is more than logic. Beneath this logic there is an idea. And ideas are bulletproof."<br>
 
 
 ## 🌐 Socials:
