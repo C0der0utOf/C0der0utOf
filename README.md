@@ -1,6 +1,7 @@
 # 💫 About Me:
-"Beneath this code there is more than logic. Beneath this logic there is an idea. And ideas are bulletproof."<br>
+Salutations
 
+I am an avid pentester and cybersec enthusiast
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VForCybersec) 
